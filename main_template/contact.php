@@ -1,8 +1,8 @@
 <?php
 if(isset($_POST['email'])) {
      
-    $email_to = "alexander.hipp.net";
-    $email_subject = "Your email subject line";
+    $email_to = "alexander.hipp@gmx.net";
+    $email_subject = "Kontaktaufnahme über alexanderhipp.com";
      
     function died($error) {
         echo "I am  very sorry, but there were error(s) found with the form you submitted. ";

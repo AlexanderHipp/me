@@ -1,9 +1,9 @@
 a {
-    color: #999999;
+    color: #db2f3b;
 }
 
 a:hover {
-    color: #222222;
+    color: #db2f3b;
 }
 
 #open-nav {
@@ -16,10 +16,10 @@ a:hover {
 
 
 .outline{
-    border:2px solid #222222;
+    border:2px solid #db2f3b;
 } 
 .outline:hover {
-    background-color:#222222;
+    background-color:#db2f3b;
     color:#FFF;
 }
 .parallax .border{
@@ -31,32 +31,32 @@ a:hover {
 }
 
 .skill li span {
-    background-color: #222222;
+    background-color: #db2f3b;
 }
 
 .service-item:hover:before {
-	border-color:#FFFFFF #FFFFFF #4e4e4e #4e4e4e; 
+	border-color: transparent; 
 }
 .service-item:hover{
-    background: #222222;
-    color: #FFFFFF;
+    background: transparent;
+    color: #6D6D6D;
 }
 
 #filters li a:hover{
-	background-color: #222222;
+	background-color: #db2f3b;
 }
 #options li a.selected{
-	background-color: #222222;
+	background-color: #db2f3b;
 }
 
 .item-overlay{
-    background-color: #222222;
+    background-color: #000;
 }
 .price-pack:hover .package-price {
     background: none repeat scroll 0 0 #00BBA6;
 }
 .blog-quote{
-	background-color: #222222;
+	background-color: #db2f3b;
 }
 .blog-quote:hover{
     background-color: #333333;
@@ -66,7 +66,7 @@ a:hover {
     color: #FFFFFF;
 }
 .btn{
-    background-color: #222222;
+    background-color: #db2f3b;
 }
 .btn:hover,.btn:focus{
     background-color: #333333;
