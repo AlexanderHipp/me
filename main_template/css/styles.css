@@ -584,6 +584,23 @@ section#home {
 
 /*About
 ----------------------------------------*/
+
+#about {
+  background-color:#0f0d0e;
+  background-image: none;
+}
+
+#about h1,
+#about .col-md-6 {
+  color:#dedede;
+}
+
+#about .avatar-text {
+  padding-top: 80px;
+  padding-bottom: 140px;
+}
+
+
 .img-about{
     display: block;
     height: auto;
